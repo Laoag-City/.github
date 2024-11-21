@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Welcome to [Your LGU's Name] GitHub! 🌟
+# Welcome to City Government of Laoag GitHub! 🌟
 
 ### Hello, and welcome to the official GitHub repository of the City Government of Laoag City, Philippines. We are committed to transparency, collaboration, and leveraging technology to serve our community better.
 
