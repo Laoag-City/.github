@@ -46,7 +46,7 @@ App Index: https://apps.laoagcity.gov.ph
 
 Email: info@laoagcity.gov.ph, apps@laoagcity.gov.ph
 
-Social Media: facebook.com/LaoagCityOfficial
+Social Media: https://facebook.com/LaoagCityOfficial
 
 ❤️ Acknowledgements
 
