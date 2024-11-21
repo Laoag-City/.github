@@ -40,9 +40,9 @@ Collaborate: PR's are always welcome.
 
 📫 Contact Us
 
-Official Website: www.laoagcity.gov.ph
+Official Website: https://www.laoagcity.gov.ph
 
-App Index: apps.laoagcity.gov.ph
+App Index: https://apps.laoagcity.gov.ph
 
 Email: info@laoagcity.gov.ph, apps@laoagcity.gov.ph
 
