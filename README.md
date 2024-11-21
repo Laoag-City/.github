@@ -22,8 +22,8 @@ Contribute Code: Fork our repositories and submit pull requests.
 Collaborate: PR's are always welcome.
 
 📫 Contact Us
-Official Website: www.yourlguwebsite.gov
-Email: info@yourlgu.gov
+Official Website: www.laoagcity.gov.ph
+Email: info@laoagcity.gov.ph
 Social Media: Facebook | Twitter | Instagram
 
 ❤️ Acknowledgements
